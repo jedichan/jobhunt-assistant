@@ -1,0 +1,4 @@
+interface:
+  display_name: "求职助手 · 选岗与投递"
+  short_description: "统一官网选岗、每日预筛、申请准备、Gmail 结果同步和岗位看板"
+  default_prompt: "使用 $jobhunt-assistant 检查我的求职进度，并按现有规则处理本次指定的选岗、投递或跟进任务。"
